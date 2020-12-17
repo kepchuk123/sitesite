@@ -1,0 +1,113 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.main {
+  width: 50%;
+  height: 96%;
+  margin: auto;
+  margin-top: 1%;
+  box-shadow: 0.4em 0.4em 5px rgba(133, 132, 132, 0.63);
+}
+
+.contacts {
+  float: left;
+  width: 30%;
+  height: 100%;
+  background: rgb(23, 78, 160);
+  color: white;
+  font-size: 0.8vw;
+  line-height: 150%;
+}
+
+.info {
+  float: right;
+  width: 70%;
+  height: 100%;
+  background: white;
+  font-size: 0.7vw;
+  line-height: 150%;
+}
+
+#photo {
+  width: 100%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+#cont {
+  width: 80%;
+  margin: 10%;
+  height: 10%;
+}
+
+#tskills {
+  width: 80%;
+  margin: 10%;
+  height: 24%;
+}
+
+.skill {
+  color: orange;
+}
+.spancont {
+  color: white;
+}
+
+.ulcont {
+  padding-left: 10%;
+}
+
+#sskills {
+  width: 80%;
+  margin: 10%;
+  height: 15%;
+}
+
+#inf {
+  width: 80%;
+  margin: 10%;
+  height: 17%;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+
+#projects {
+  width: 80%;
+  margin: 10%;
+  height: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+#workexp {
+  width: 80%;
+  margin: 10%;
+  height: 45%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  line-height: 80%;
+}
+
+.ulinf {
+  padding-left: 4%;
+  line-height: 125%;
+}
+
+.plcofwrk {
+  color: orange;
+}
+
+#education {
+  width: 80%;
+  margin: 10%;
+  height: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  line-height: 80%;
+}
